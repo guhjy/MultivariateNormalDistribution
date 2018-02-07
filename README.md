@@ -1,1 +1,1 @@
-# MultivariateNormalDistribution
+# Multivariate Normal Distribution
